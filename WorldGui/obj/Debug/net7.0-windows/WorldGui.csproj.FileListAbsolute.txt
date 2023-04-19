@@ -1,0 +1,65 @@
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.formWorldGui.resources
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.FormWorldGui.resources
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.WorldGui.resources
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\City.csv
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\Country.csv
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\CountryLanguage.csv
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGuiLibrary.dll
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGuiLibrary.pdb
+C:\ga\2022-2023\Emne 4 Objektorientert Programmering\Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CopyComplete
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\City.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\Country.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\CountryLanguage.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGuiLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGuiLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.WorldGui.resources
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.FormWorldGui.resources
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CopyComplete
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll

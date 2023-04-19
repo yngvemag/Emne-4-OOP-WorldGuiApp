@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WorldGui/1.0.0": {
+        "dependencies": {
+          "WorldGuiLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WorldGui.dll": {}
+        }
+      },
+      "WorldGuiLibrary/1.0.0": {
+        "runtime": {
+          "WorldGuiLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorldGui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorldGuiLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

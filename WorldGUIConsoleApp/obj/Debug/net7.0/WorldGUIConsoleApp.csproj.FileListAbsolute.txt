@@ -1,0 +1,42 @@
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.exe
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.deps.json
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.runtimeconfig.json
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.csproj.AssemblyReference.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.AssemblyInfoInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.AssemblyInfo.cs
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.csproj.CoreCompileInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\refint\WorldGUIConsoleApp.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.genruntimeconfig.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\ref\WorldGUIConsoleApp.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\Files\City.csv
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\Files\Country.csv
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\Files\CountryLanguage.csv
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGuiLibrary.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGuiLibrary.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.csproj.CopyComplete
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.exe
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\Files\City.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\Files\Country.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\Files\CountryLanguage.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.runtimeconfig.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGUIConsoleApp.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGuiLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\bin\Debug\net7.0\WorldGuiLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.csproj.CopyComplete
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\refint\WorldGUIConsoleApp.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\WorldGUIConsoleApp.genruntimeconfig.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga\2022-2023\Emne 4 Objektorientert Programmering\WorldGuiApp\WorldGUIConsoleApp\obj\Debug\net7.0\ref\WorldGUIConsoleApp.dll
